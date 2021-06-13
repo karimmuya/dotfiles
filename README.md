@@ -1,7 +1,7 @@
-# My i3wm- otfiles
-###### Floating 
-![Tiling](/images/tiling.png)
-###### i3-gaps
-![Floating](/images/02.png)
+# My i3wm dotfiles
+###### Tiling 
+![Tiling](/screenshots/tiling.png)
+###### Floating
+![Floating](/screenshots/floating.png)
 ###### Rofi
-![Rofi](/images/rofi.png)
+![Rofi](/screenshots/rofi.png)
